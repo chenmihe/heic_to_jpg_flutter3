@@ -1,6 +1,6 @@
 # heic_to_jpg_flutter3
 
-heic_to_jpg
+heic_to_jpg  Support Android iOS macOS
 
 ## Getting Started
 
