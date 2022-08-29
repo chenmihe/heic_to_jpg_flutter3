@@ -4,7 +4,7 @@ heic_to_jpg  Support Android iOS macOS
 
 windows Not currently supported
 
-根据https://pub.flutter-io.cn/packages/heic_to_jpg修改使用
+根据https://pub.flutter-io.cn/packages/heic_to_jpg 修改使用
 ## Getting Started
 
 This project is a starting point for a Flutter
